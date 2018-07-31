@@ -1,8 +1,8 @@
 # cerebro
 
-educative game about visual brain processing based on RPG Maker MV
+Educative game about visual brain processing based. on RPG Maker MV
 
-You can play the demo:
+You can play the demo here:
 
 http://www.vindrogames.com
 
